@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GiovaneCardona
 - 👀 I’m interested in databases
 - 🌱 I’m currently learning HTML, CSS, JS and mySQL.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: giovane.cardona@sptech.school
 
 <!---
